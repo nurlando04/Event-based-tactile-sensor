@@ -1,5 +1,7 @@
 # Event-based-tactile-sensor
 
+This project detects non-coliding objects using event-based camera and then sends coordinates of their center to ROS topic.
+
 First of all you need to download metavision SDK libraries following the instructions from the [Prophesee official page](https://www.prophesee.ai/metavision-intelligence-essentials-download-2-1/)
 
 
